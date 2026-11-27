@@ -1,7 +1,7 @@
 ![Picture of build](media/eskateboardpic.png)
 
 # eskateboard
-Not a skateboard but that's the codename I use for this project. 
+Was initially a skateboard but was too scary so turned it into a go kart. 
 
 [Everything I bought for the project](https://drive.proton.me/urls/V9PJ7P0EQG#DMEw0mcBIt5R)
 
